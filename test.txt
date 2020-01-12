@@ -1,5 +1,10 @@
 Hello GIT branch
  i'm fine
 It's new line
+<<<<<<< HEAD
 Muhammad loshara 12312
 123
+=======
+Muhammad loshara
+hello
+>>>>>>> rebase
