@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello Devcolibri
 hello first change
+=======
+hello Devcolibri ure loh
+>>>>>>> Changed file
